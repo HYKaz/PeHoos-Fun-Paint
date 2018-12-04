@@ -27,7 +27,6 @@ PeHoos Fun Paint by <a href="http://hykaz.com" target="_blank"> KazSoft </a> is 
       <li> Print </li> 
       <li> More..  </li>
 </ul>
-<hr />
 
 <hr />
 <h2> System Requirements </h2>
