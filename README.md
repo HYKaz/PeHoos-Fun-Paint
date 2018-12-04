@@ -36,5 +36,5 @@ PeHoos Fun Paint by <a href="http://hykaz.com" target="_blank"> KazSoft </a> is 
      <li> Mouse. </li> 
  </ul>
 <hr />
-<b> Product homepage </b> :  <a href="http://hykaz.com/pehoos-fun-paint/" target="_blank"> http://hykaz.com/urdu-wordpad/ </a> <br />
+<b> Product homepage </b> :  <a href="http://hykaz.com/pehoos-fun-paint/" target="_blank"> http://hykaz.com/pehoos-fun-paint/ </a> <br />
 <b> Download </b> :  <a href="hykaz.com/wp-content/uploads/downloads/2018/04/PeHoos-FunPaint-Setup.zip" target="_blank"> Click here to download Windows Installer </a>
